@@ -1,2 +1,2 @@
-Store any website on your mobile phone or computer, easily.
-Unless stated otherwise at the sub-repo level, all code is under a GPL 3.0 license
+Store any website on your mobile phone or computer, easily.</br>
+This project is tested with <a href="https://https://www.browserstack.com/">BrowserStack.</a>
