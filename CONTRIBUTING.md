@@ -34,7 +34,7 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
 
 1.  **Create or modify the files** with your changes. If you want to show other people work that isn't ready to merge in, commit your changes then create a pull request (PR) with _WIP_ or _Work In Progress_ in the title.
 
-        https://github.com/kiwix/<repository-name>/pull/new/master
+        https://github.com/kiwix/<repository-name>/pull/new/main
 
 1.  Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign as a reviewer or ping (using "`@<username>`") a Lieutenant (someone able to merge in PRs) active on the project (all Lieutenants can be pinged via `@kiwix/lieutenants`)
 
