@@ -2,6 +2,21 @@
 
 We love improvements to our tools! There are a few key ways you can help us improve our projects:
 
+### Usage of Artificial Intelligence (AI)
+
+The usage of generative AI tool is not welcomed in pull requests. In
+particular for new committers.
+
+This warning applies to both the code and description, comments.
+
+The main reasons are:
+1. Violation of third party intellectual property
+2. Lack of sovereignity/freedom over both toolchain and code base
+3. Most of the time, additional useless burden for the reviewers
+
+The usage of AI tool for the review is left to the decision of the
+reviewers.
+
 ### Submitting Feedback, Requests, and Bugs
 
 Our process for submitting feedback, feature requests, and reporting bugs usually begins by discussion on [our chat](http://wiki.kiwix.org/wiki/Communication#Chat) and, after initial clarification, through [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
