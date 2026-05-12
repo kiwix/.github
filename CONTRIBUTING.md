@@ -2,6 +2,20 @@
 
 We love improvements to our tools! There are a few key ways you can help us improve our projects:
 
+### Usage of LLM/AI
+
+The use of generative AI tools is not welcome in pull requests, particularly for new contributors.
+
+This warning applies to both the code, the PR description and comments.
+
+Non-exhautive reasons include:
+
+1. Violation of third-party intellectual property
+2. Lack of sovereignty/freedom over both the toolchain and code base
+3. Additional useless burden for reviewers
+
+The use of AI tools (ex: Copilot) for the review is left to the discretion of the reviewers.
+
 ### Submitting Feedback, Requests, and Bugs
 
 Our process for submitting feedback, feature requests, and reporting bugs usually begins by discussion on [our chat](http://wiki.kiwix.org/wiki/Communication#Chat) and, after initial clarification, through [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
